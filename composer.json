@@ -1,0 +1,10 @@
+{
+    "name": "vendor/sms-platform",
+    "authors": [
+        {
+            "name": "Arminas",
+            "email": "arminas@vertex.lt"
+        }
+    ],
+    "require": {}
+}
