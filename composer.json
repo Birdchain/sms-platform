@@ -6,5 +6,7 @@
             "email": "arminas@vertex.lt"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
 }
